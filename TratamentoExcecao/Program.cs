@@ -8,6 +8,7 @@ namespace TratamentoExcecao
     {
         static void Main(string[] args)
         {
+            //trabalhando com tratamento de exceção
             try { 
             Console.WriteLine("Room number");
             int number = int.Parse(Console.ReadLine());
